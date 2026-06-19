@@ -1,0 +1,6 @@
+opencv-python
+SpeechRecognition
+google-genai
+gTTS
+pygame
+pyaudio
